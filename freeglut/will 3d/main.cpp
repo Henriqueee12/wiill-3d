@@ -32,7 +32,6 @@ static void display(void)
     glLoadIdentity();
     //define área de enquadramento da cena
     gluOrtho2D(-3, 3, -3, 3);
-    glTranslatef(-2.0f, 2.0f, 0.0f);
 
     glScalef(escala, escala, 0);
 
