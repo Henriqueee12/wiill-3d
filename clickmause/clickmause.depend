@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1758838465 source:c:\users\1577337\documents\github\wiill-3d\clickmause\main.cpp
+	<GLUT/glut.h>
+	<GL/glut.h>
+	<stdlib.h>
+	<time.h>
+

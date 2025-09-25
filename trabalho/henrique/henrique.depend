@@ -22,3 +22,8 @@
 1758233819 c:\users\1577337\documents\wiill-3d\freeglut\include\gl\freeglut_ext.h
 	<stdarg.h>
 
+1758838465 source:c:\users\1577337\documents\github\wiill-3d\trabalho\henrique\main.cpp
+	<GL/freeglut.h>
+	<cmath>
+	<string>
+
